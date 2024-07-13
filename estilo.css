@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: brown;
+    display: flex;
+    
+}
+
+.cabecalho-logo{
+    background-color: blue;
+    display: inline;
+    text-align: center;
+    margin: 30px 10px;
+    border-radius: 10px;
+}
+
+
+.cabecalho-icones {
+    background-color: aqua;
+    display:inline;
+    text-align: center;
+    margin: 30px 0px;
+    border-radius: 10px;
+}
+
+img{
+    width: 120px;
+    margin-top: -20px;
+}
